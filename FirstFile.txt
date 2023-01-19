@@ -1,12 +1,17 @@
 #---> Hello World <---> I'm Christian Lachapelle <---
 
-# My name is Hafees Falana
+# My name is Hafees Falana 
 
 # I love programming; basically I do alot of self-learning from youtube videos and reading materials
 
 # I am new to Java though, but I am proficient in php , HTML; my Javascript is intermidiate though
 
 # I am looking forward to learning exciting things in the world of mobile application development
+
+# My name is Yash Patel
+# Before I took this course i only knew little bit of python and java but after finishing this cours I'll learn many more languages.
+# I am very exited to do Mobile Application Development as it has very bright future.
+# Created on 19/01/2023
 
 # created on 9th September, 2021
 
